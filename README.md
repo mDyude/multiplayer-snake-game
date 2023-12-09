@@ -1,4 +1,4 @@
-A multuplayer snake game. 
+A multiplayer snake game. 
 
 Chatting is RSA encrypted.
 
